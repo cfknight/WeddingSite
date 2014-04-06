@@ -58,16 +58,16 @@
         <div class="row">
             <div class="col-md-6">
                 <h1>Work in Progress</h1>
-                <p>More features are being added to the website, including RSVP, gift registries, hotel registrations, and maybe more! <br />
+                <p>More features are being added to the website including gift registries, hotel reservations, and maybe more! <br />
                     Please check back soon!
                 </p>
             </div>
             <div class="col-md-4 col-md-offset-2">
           <h3>Locations' Websites</h3>
               <ul>
-                  <li><a href="http://zionlutheran-ic.ctsmemberconnect.net/home-ctrl.do">Zion Lutheran Church</a></li>
-                  <li><a href="http://www.browndeergolf.org/">Brown Deer Golf Club</a></li>
-                  <li><a href="http://www.marriott.com/hotels/travel/cidic-coralville-marriott-hotel-and-conference-center/">Coralville Marriott</a></li>
+                  <li><a href="http://zionlutheran-ic.ctsmemberconnect.net/home-ctrl.do" target="_blank">Zion Lutheran Church</a></li>
+                  <li><a href="http://www.browndeergolf.org/" target="_blank">Brown Deer Golf Club</a></li>
+                  <li><a href="http://www.marriott.com/hotels/travel/cidic-coralville-marriott-hotel-and-conference-center/" target="_blank">Coralville Marriott</a></li>
               </ul>
             </div>
             

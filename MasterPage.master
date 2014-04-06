@@ -35,13 +35,13 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="Default.aspx">Home</a></li>
+                <li><a href="Default.aspx">Home</a></li>
                 <li><a href="Accommodations.aspx">Accommodations</a></li>
                 <li><a href="Registry.aspx">Registry</a></li>
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Directions <b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="https://goo.gl/maps/6hy6F" target="_blank">Church</a></li>
+                    <li><a href="https://goo.gl/maps/6hy6F" target="_blank">Zion Lutheran Church</a></li>
                     <li><a href="https://www.google.com/maps?daddr=Brown+Deer+Golf+Club,+Country+Club+Drive,+Coralville,+IA&hl=en&sll=41.663716,-91.528502&sspn=0.010307,0.021136&oq=Brown+Deer+Golf+Club&dirflg=w&mra=ls&t=m&z=16" target="_blank">Brown Deer Golf Club</a></li>
                     <li><a href="https://www.google.com/maps?daddr=Coralville+Marriott+Hotel+%26+Conference+Center,+East+9th+Street,+Coralville,+IA&hl=en&sll=41.69836,-91.565938&sspn=0.010302,0.021136&oq=Coralville+Marriot&dirflg=w&mra=ls&t=m&z=16" target="_blank">Coralville Marriott</a></li>
                   </ul>
