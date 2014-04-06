@@ -1,0 +1,63 @@
+﻿<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Our Wedding</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+          <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="Default.aspx">Kaybri & Chuck's Wedding</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="Default.aspx">Home</a></li>
+                <li><a href="Accommodations.aspx">Accommodations</a></li>
+                <li><a href="Registry.aspx">Registry</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Directions <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="https://goo.gl/maps/6hy6F" target="_blank">Church</a></li>
+                    <li><a href="https://www.google.com/maps?daddr=Brown+Deer+Golf+Club,+Country+Club+Drive,+Coralville,+IA&hl=en&sll=41.663716,-91.528502&sspn=0.010307,0.021136&oq=Brown+Deer+Golf+Club&dirflg=w&mra=ls&t=m&z=16" target="_blank">Brown Deer Golf Club</a></li>
+                    <li><a href="https://www.google.com/maps?daddr=Coralville+Marriott+Hotel+%26+Conference+Center,+East+9th+Street,+Coralville,+IA&hl=en&sll=41.69836,-91.565938&sspn=0.010302,0.021136&oq=Coralville+Marriot&dirflg=w&mra=ls&t=m&z=16" target="_blank">Coralville Marriott</a></li>
+                  </ul>
+                </li>
+              </ul> 
+            
+            </div><!-- /.navbar-collapse -->
+          </div><!-- /.container-fluid -->
+        </nav>
+        <asp:ContentPlaceHolder id="Content" runat="server">
+        </asp:ContentPlaceHolder>
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    </form>
+    <asp:ContentPlaceHolder ID="Form" runat="server"></asp:ContentPlaceHolder>
+</body>
+</html>
