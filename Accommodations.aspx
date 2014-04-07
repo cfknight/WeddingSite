@@ -16,15 +16,15 @@
         <br />
          <div class="row">
   <div class="col-sm-6 col-md-4">
-    <div class="thumbnail">
+    <div class="thumbnail mythumb">
       <img src="images/marriott1.jpg" alt="Coralville Marriott">
         <h3>300 E 9th St. Coralville, Iowa</h3>
       <div class="caption">
         <p>The Coralville Marriott has partnered with Brown Deer Golf Club, and will provide accommodations for the wedding guests as well 
             as catering for the reception. We definitely recommend staying here if you are looking for a hotel!
         </p>
-        <p><a href="http://www.marriott.com/hotels/travel/cidic-coralville-marriott-hotel-and-conference-center/" class="btn btn-primary" role="button">Coralville Marriott</a> 
-            <a href="#" class="btn btn-default" role="button">Our Reservation Webpage</a></p>
+        <p><a href="http://www.marriott.com/hotels/travel/cidic-coralville-marriott-hotel-and-conference-center/" class="btn btn-primary" role="button" target="_blank">Coralville Marriott</a> 
+            <a href="#" class="btn btn-default" role="button" target="_blank">Our Reservation Webpage</a></p>
       </div>
     </div>
   </div>

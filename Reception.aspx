@@ -9,19 +9,20 @@
    
     <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">Coralville Marriott Hotel & Conference Center</h3>
+    <h3 class="panel-title">Brown Deer Golf Club</h3>
   </div>
         <br />
          <div class="row">
   <div class="col-sm-6 col-md-4">
-    <div class="thumbnail">
+    <div class="thumbnail mythumb">
       <img src="images/browndeer.jpg" alt="Brown Deer Golf Club">
       <div class="caption">
+          <h3>1900 Country Club Dr. Coralville, Iowa</h3>
         <p>Brown Deer Golf Club features a beautiful banquet hall with plenty of room for 200+ guests (including a dance floor!). Catering will be provided by Coralville Marriott.  <br />
             
         </p>
-        <p><a href="http://www.browndeergolf.org/" class="btn btn-primary" role="button">Brown Deer Golf Club</a> 
-            <a href="http://www.coralville.org/index.aspx?nid=545" class="btn btn-default" role="button">Weddings</a></p>
+        <p><a href="http://www.browndeergolf.org/" class="btn btn-primary" role="button" target="_blank">Brown Deer Golf Club</a> 
+            <a href="http://www.coralville.org/index.aspx?nid=545" class="btn btn-default" role="button" target="_blank">Weddings</a></p>
       </div>
     </div>
   </div>

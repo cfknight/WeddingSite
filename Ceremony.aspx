@@ -8,16 +8,16 @@
     <br />
     <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">Coralville Marriott Hotel & Conference Center</h3>
+    <h3 class="panel-title">Zion Lutheran Church</h3>
   </div>
         <br />
          <div class="row">
   <div class="col-sm-6 col-md-4">
-    <div class="thumbnail">
+    <div class="thumbnail mythumb">
       <img src="images/zion.jpg" alt="Zion Lutheran Church">
       <div class="caption">
         <p>Zion Lutheran Church has been serving Iowa City for over 150 years, and is home to the state's oldest (and probably most awesome) pipe organ!</p>
-        <p><a href="http://zionlutheran-ic.ctsmemberconnect.net/home-ctrl.do" class="btn btn-primary" role="button">Zion Lutheran Church</a> 
+        <p><a href="http://zionlutheran-ic.ctsmemberconnect.net/home-ctrl.do" class="btn btn-primary" role="button" target="_blank">Zion Lutheran Church</a> 
       </div>
     </div>
   </div>

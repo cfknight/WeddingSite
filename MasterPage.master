@@ -61,5 +61,12 @@
     <script src="js/bootstrap.min.js"></script>
     </form>
     <asp:ContentPlaceHolder ID="Form" runat="server"></asp:ContentPlaceHolder>
+    <div class="footer">
+        <br />
+        <br />
+        &copy; 2014 - Chuck Knight
+        <br />
+        <br />
+    </div>
 </body>
 </html>

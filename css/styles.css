@@ -28,5 +28,12 @@
     font-weight:bold;
     color:red;
     font-size:larger;
+}
 
+.mythumb {
+margin-left:20px;
+}
+
+.footer {
+text-align:center;
 }

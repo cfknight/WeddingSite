@@ -57,10 +57,10 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-6">
-                <h1>Work in Progress</h1>
-                <p>More features are being added to the website including gift registries, hotel reservations, and maybe more! <br />
-                    Please check back soon!
-                </p>
+                <ul class="list-group">
+  <li class="list-group-item"> <h1>Invitations have been sent!</h1><br /><h2>Please R.S.V.P. by May 23, 2014!</h2></li>
+  <li class="list-group-item"> Check back soon for updates!</li>
+  </ul>
             </div>
             <div class="col-md-4 col-md-offset-2">
           <h3>Locations' Websites</h3>
