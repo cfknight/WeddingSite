@@ -3,10 +3,19 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="Content" Runat="Server">
-  <div class="jumbotron">
-  <h1>Registry</h1>
-  <p>If you would like to get us a gift, we have provided registry listings at the following stores for your convenience:</p>
-      </div>
+    <br />
+    <br />
+    <br />
+  <div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">Our Gift Registries</h3>
+  </div>
+        <div class="panel-body">
+      <ul class="list-group">
+  <li class="list-group-item">If you would like to get us a gift, we have provided registry listings at the following stores for your convenience:</li>
+</ul>
+  </div>
+      <br />
         <div class="row">
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
@@ -32,7 +41,7 @@
     </div>
   </div>
 </div>
-
+      </div>
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="Form" Runat="Server">
 </asp:Content>
