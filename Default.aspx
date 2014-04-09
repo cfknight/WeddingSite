@@ -54,11 +54,17 @@
     <span class="glyphicon glyphicon-chevron-right"></span>
   </a>
 </div>
+    <br />
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-6">
                 <ul class="list-group">
-  <li class="list-group-item"> <h1>Invitations have been sent!</h1><br /><h2>Please R.S.V.P. by May 23, 2014!</h2></li>
+                    <li class="list-group-item"> Thanks for visiting our website! Hopefully any questions you might have about the wedding or reception can be answered here. 
+                        If you need more information (or if we forgot something), please send us a message at <a href="mailto:contact@harbitknightwedding.com">Contact@HarbitKnightWedding.com</a>.
+                     </li>
+  <li class="list-group-item"> <h2>Invitations have been sent!
+                                  <br />
+                                  Please R.S.V.P. by May 23, 2014!</h2></li>
   <li class="list-group-item"> Check back soon for updates!</li>
   </ul>
             </div>

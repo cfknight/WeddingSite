@@ -4,16 +4,16 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>Our Wedding</title>
 
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
-    <link href="css/styles.css" rel="stylesheet">
+    <!-- Bootstrap --> 
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="css/styles.css" rel="stylesheet" />
     <asp:ContentPlaceHolder id="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
@@ -40,8 +40,9 @@
                 <li><a href="Registry.aspx">Registry</a></li>
                 <li><a href="Ceremony.aspx">Ceremony</a></li>
                 <li><a href="Reception.aspx">Reception</a></li>
+                <%--<li><a href="Contact.aspx">Contact</a></li>--%>
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Directions <b class="caret"></b></a>
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Directions <b class="caret"></b></a>
                   <ul class="dropdown-menu">
                     <li><a href="https://goo.gl/maps/6hy6F" target="_blank">Zion Lutheran Church</a></li>
                     <li><a href="https://www.google.com/maps?daddr=Brown+Deer+Golf+Club,+Country+Club+Drive,+Coralville,+IA&hl=en&sll=41.663716,-91.528502&sspn=0.010307,0.021136&oq=Brown+Deer+Golf+Club&dirflg=w&mra=ls&t=m&z=16" target="_blank">Brown Deer Golf Club</a></li>
